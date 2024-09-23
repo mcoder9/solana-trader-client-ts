@@ -55,7 +55,7 @@
     "dependencies": {
         "@grpc/grpc-js": "^1.10.2",
         "@pbkit/grpc-client": "^0.0.3",
-        "@solana/web3.js": "1.73.2",
+        "@solana/web3.js": "^1.95.3",
         "axios": "1.1.2",
         "bs58": "^5.0.0",
         "dotenv": "^16.0.1",
